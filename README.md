@@ -1,2 +1,2 @@
 # MagChain_OldVersions
-Previous versions of MagChain
+Repository containing previous versions of MagChain as they were released
